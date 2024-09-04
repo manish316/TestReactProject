@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.51fe12f6.css",
-    "main.js": "/static/js/main.f0f161b7.js",
-    "static/js/453.8baf3317.chunk.js": "/static/js/453.8baf3317.chunk.js",
-    "index.html": "/index.html",
-    "main.51fe12f6.css.map": "/static/css/main.51fe12f6.css.map",
-    "main.f0f161b7.js.map": "/static/js/main.f0f161b7.js.map",
-    "453.8baf3317.chunk.js.map": "/static/js/453.8baf3317.chunk.js.map"
+    "main.css": "//manish316.github.io/TestReactProject/static/css/main.51fe12f6.css",
+    "main.js": "//manish316.github.io/TestReactProject/static/js/main.246a6d45.js",
+    "static/js/453.8baf3317.chunk.js": "//manish316.github.io/TestReactProject/static/js/453.8baf3317.chunk.js",
+    "index.html": "//manish316.github.io/TestReactProject/index.html",
+    "main.51fe12f6.css.map": "//manish316.github.io/TestReactProject/static/css/main.51fe12f6.css.map",
+    "main.246a6d45.js.map": "//manish316.github.io/TestReactProject/static/js/main.246a6d45.js.map",
+    "453.8baf3317.chunk.js.map": "//manish316.github.io/TestReactProject/static/js/453.8baf3317.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51fe12f6.css",
-    "static/js/main.f0f161b7.js"
+    "static/js/main.246a6d45.js"
   ]
 }
